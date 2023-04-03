@@ -1,4 +1,4 @@
-package example.component;
+package org.example.component;
 
 import org.example.dto.Profile;
 

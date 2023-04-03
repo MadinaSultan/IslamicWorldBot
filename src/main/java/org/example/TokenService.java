@@ -1,4 +1,4 @@
-package example;
+package org.example;
 
 import org.telegram.telegrambots.meta.api.methods.send.*;
 import org.telegram.telegrambots.meta.api.objects.InputFile;

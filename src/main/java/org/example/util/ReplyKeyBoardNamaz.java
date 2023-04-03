@@ -1,4 +1,4 @@
-package example.util;
+package org.example.util;
 
 import org.example.MyTelegramBot;
 import org.example.controller.FileLogController;

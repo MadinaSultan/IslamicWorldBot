@@ -1,4 +1,4 @@
-package example.util;
+package org.example.util;
 
 import org.telegram.telegrambots.meta.api.methods.send.SendMessage;
 

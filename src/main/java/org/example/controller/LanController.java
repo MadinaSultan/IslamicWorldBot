@@ -1,4 +1,4 @@
-package example.controller;
+package org.example.controller;
 
 import org.example.component.ComponentContainer;
 import org.example.dto.Profile;

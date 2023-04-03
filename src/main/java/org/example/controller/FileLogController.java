@@ -1,4 +1,4 @@
-package example.controller;
+package org.example.controller;
 
 import org.example.MyTelegramBot;
 import org.telegram.telegrambots.meta.api.methods.send.*;

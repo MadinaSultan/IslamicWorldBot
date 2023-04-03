@@ -1,4 +1,4 @@
-package example;
+package org.example;
 
 import org.example.controller.CallBackController;
 import org.example.controller.FileLogController;

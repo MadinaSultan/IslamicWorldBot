@@ -1,4 +1,4 @@
-package example;
+package org.example;
 
 
 public class Profile {
